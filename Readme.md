@@ -1,4 +1,4 @@
-**Hello and welcome to my data science project ! **
+## Hello and welcome to my data science project ! 
 
 This is a personal project that was also used to validate my *IBM Data Science Professional Certificate*.
 
@@ -20,7 +20,16 @@ You can download the HTML version of the choropleth maps generated during the pr
 - <a href=https://github.com/Ashish-3/House-prices-in-France/raw/master/maps/revenue_median.html>Map of the standard of living (median revenues of households)</a>
 - <a href=https://github.com/Ashish-3/House-prices-in-France/raw/master/maps/Prix_m2.html> Map of house prices per metre square (average value)</a>
 
-<img src="https://raw.githubusercontent.com/Ashish-3/House-prices-in-France/master/maps/age_median.png" style="width:200px;height:100px;"  alt="Map of the population's age">
+Or you can acces the PNG version of the maps by clicking on the images bellow :
+-	Map of the population density
+<img src="https://raw.githubusercontent.com/Ashish-3/House-prices-in-France/master/maps/density.png" width="200" height="100"  alt="Map of the population density">
+-	Map of the standard of living (median revenues of households)
+<img src="https://raw.githubusercontent.com/Ashish-3/House-prices-in-France/master/maps/revenue_median.png" width="200" height="100"  alt="Map of the standard of living (median revenues of households)">
+-	Map of the population’s age (median age)
+<img src="https://raw.githubusercontent.com/Ashish-3/House-prices-in-France/master/maps/age_median.png" width="200" height="100"  alt="Map of the population’s age (median age)">
+-	Map of house prices per metre square (average value)
+<img src="https://raw.githubusercontent.com/Ashish-3/House-prices-in-France/master/maps/prix_m2.png" width="200" height="100"  alt="Map of house prices per metre square (average value)">
+
 
 Have fun reading my project !
 Don't hesitate to write to me for any question or feedback !
