@@ -5,7 +5,10 @@ This is a personal project that was also used to validate my *IBM Data Science P
 The goal of this project is to answer the following question :
 **Where is a “good place” to buy a house in France and at what price?**
 
-You can learn about the project by reading the report here :
+You can have a quick overview of the project by looking at the presentation :
+- <a href=https://nbviewer.jupyter.org/github/Ashish-3/House-prices-in-France/blob/master/Presentation.pdf>  Project presentation</a>
+
+You can learn about  the project by reading the report here :
 - <a href=https://nbviewer.jupyter.org/github/Ashish-3/House-prices-in-France/blob/master/Report.pdf>  Project report</a>
 
 The project details can be found in four separate jupyter notebooks:
