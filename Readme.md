@@ -2,16 +2,16 @@
 
 This is a personal project that was also used to validate my *IBM Data Science Professional Certificate*.
 
-The goal of this project is to answer the following question :
+The goal of this project is to answer the following question:
 **Where is a “good place” to buy a house in France and at what price?**
 
-You can have a quick overview of the project by looking at the presentation :
+You can have a very quick overview of the project by looking at the presentation :
 - <a href=https://nbviewer.jupyter.org/github/Ashish-3/House-prices-in-France/blob/master/Presentation.pdf>  Project presentation</a>
 
-You can learn about  the project by reading the report here :
+You can read the report to understand the project:
 - <a href=https://nbviewer.jupyter.org/github/Ashish-3/House-prices-in-France/blob/master/Report.pdf>  Project report</a>
 
-The project details can be found in four separate jupyter notebooks:
+The project's details can be found in four separate jupyter notebooks:
 -	<a href=https://nbviewer.jupyter.org/github/Ashish-3/House-prices-in-France/blob/master/Preprocessing_communes_stats.ipynb> Pre-processing data about the communes </a>
 -	<a href=https://nbviewer.jupyter.org/github/Ashish-3/House-prices-in-France/blob/master/Preprocessing_house_transactions.ipynb > Pre-processing the real estate transaction records </a>
 -	<a href=https://nbviewer.jupyter.org/github/Ashish-3/House-prices-in-France/blob/master/Communes_analysis.ipynb > Data analysis </a>
@@ -23,7 +23,7 @@ You can download the HTML version of the choropleth maps generated during the pr
 - <a href=https://github.com/Ashish-3/House-prices-in-France/raw/master/maps/revenue_median.html>Map of the standard of living (median revenues of households)</a>
 - <a href=https://github.com/Ashish-3/House-prices-in-France/raw/master/maps/Prix_m2.html> Map of house prices per metre square (average value)</a>
 
-Or you can acces the PNG version of the maps by clicking on the images bellow :
+Or you can acces the PNG version of the maps by clicking on the images bellow:
 -	Map of the population density
 <img src="https://raw.githubusercontent.com/Ashish-3/House-prices-in-France/master/maps/density.png" width="200" height="100"  alt="Map of the population density">
 
